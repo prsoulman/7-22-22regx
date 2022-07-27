@@ -4,7 +4,7 @@ The Gist dives into the regex expression for E-mail validators.
 
 ## Summary
 
-The expression /^([a-z0-9_\.-]+)@([\da-z\.-]+)\.([a-z\.]{2,6})$/ is for validating an email address. This perticular regex is used to matching email regex is used to validate an email address. For instance, if we would use this expression to validate a from the front end to the backend server.
+The expression /^([a-z0-9_\.-]+)@([\da-z\.-]+)\.([a-z\.]{2,6})$/ is for validating an email address. This perticular regex is used to match email and validate the address. For instance, if we would use this expression to validate a from the front end to the backend server.
 
 
 ## Table of Contents
